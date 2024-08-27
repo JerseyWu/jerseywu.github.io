@@ -9,7 +9,7 @@
     };
 
     // 添加一个get请求
-    MyModule.get = function() {
+    cc.get = function() {
         console.log('get');
     };
 
